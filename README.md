@@ -1,6 +1,6 @@
 - PSS/E
 
-    clipboard_to_csv
+        clipboard_to_csv
 
 sys와 clipboard만을 import해서 python만 설치된 환경에서도 가능할 것으로 예상
 
@@ -8,7 +8,7 @@ sys와 clipboard만을 import해서 python만 설치된 환경에서도 가능�
 
 이 경우에는 PSCAD outfile(.out)을 통해 csv 파일로 변환하는 방식을 사용해야 한다.
 
-    Merge_csv
+        Merge_csv
 
 *주의* 합치는 과정에서 후속 파일에 대해 time을 삭제하고 진행
 
@@ -16,7 +16,7 @@ sys와 clipboard만을 import해서 python만 설치된 환경에서도 가능�
 
 - PSCAD
 
-    out_to_csv
+        out_to_csv
 
 ver33은 python 2.7 환경에 맞춰서 코드를 동작시켜야 함.
 
