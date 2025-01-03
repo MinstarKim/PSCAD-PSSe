@@ -40,4 +40,4 @@ os.environ['PATH'] = (r"C:\Program Files\PTI\PSSE35\35.2\PSSPY38;" + os.environ[
 
 *주의* 일부로 encoding을 ver33에 대해서 CP949 / ver35에 대해서 UTF-8을 적용함. 
 
-        만일 한글이 깨져서 보인다면 실행파일을 변경해서 진행하면 개선될 것
+만일 한글이 깨져서 보인다면 실행파일을 변경해서 진행하면 개선될 것
